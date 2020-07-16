@@ -16,7 +16,7 @@ public class testngmethodTest {
 		
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
-		driver.get("http://rediff.com");
+		driver.get("http://yahoo.com");
 		
 		Thread.sleep(4000);
 		

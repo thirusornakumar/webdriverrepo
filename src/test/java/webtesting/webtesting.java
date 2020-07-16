@@ -9,7 +9,7 @@ public class webtesting {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
-		System.out.println("hello2");;
+		System.out.println("hello3 with egit");;
 		
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
